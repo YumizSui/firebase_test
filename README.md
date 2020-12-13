@@ -1,2 +1,1 @@
-# TasCalnder
-これはhoge parrotのリポジトリです．
+これはGolang+vue.js+firebaseのテストです．
